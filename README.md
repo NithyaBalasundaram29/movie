@@ -10,3 +10,9 @@ git push -u origin main or git push
 Database options
 SQL - (MySQL, MariaDB, PostgreSQL)
 NoSQL - (MongoDB)
+
+
+SOiFcjtf3lXUScLo
+nithyabalasundaram29
+
+mongodb+srv://nithyabalasundaram29:SOiFcjtf3lXUScLo@cluster0.wvltjgf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
